@@ -5,14 +5,7 @@ A fictional company that provides identity verification (KYC) and fraud preventi
 Complete documentation for **TrustLayer**, a fictional company that provides identity verification (KYC) and fraud prevention APIs. This repository is a technical writing portfolio project: the company, product, API and screens are invented, and the documentation follows the standards of real-world developer and product documentation.
 > [!NOTE]
 > **TrustLayer is fictional.** Any resemblance to real companies or products is coincidental. All personal data in examples is invented.
-## Start here
-| I want to see… | Go to |
-|---|---|
-| API documentation for developers | [Developer Documentation](docs/developer/README.md) |
-| Product documentation for business users | [Admin Guide](docs/admin/README.md) |
-| Who each document is for, and why it's structured this way | [Portfolio notes](docs/PORTFOLIO_NOTES.md) |
-| The writing rules used across all pages | [Style guide](docs/STYLE_GUIDE.md) |
-| The machine-readable API definition | [OpenAPI 3.1 spec](api/openapi.yaml) |
+
 ## What's inside
 ### Developer Documentation
 | # | Document | Type |
